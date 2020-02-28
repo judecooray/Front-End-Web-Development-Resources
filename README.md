@@ -41,7 +41,7 @@
 ## Learning
 
 - [A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A comprehensive guide to the Flexbox Layout.
-- [A Complete Guide to Grd | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to the Grid Layout.
+- [A Complete Guide to Gird | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - A comprehensive guide to the Grid Layout.
 - [Command Line Power User](https://commandlinepoweruser.com/) - A video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
 - [CSS Grid](https://cssgrid.io/) - Complete video course all about CSS Grid
 - [Best Of JS](https://bestof.js.org/) 👍 A site to check best GitHub repos for your favorite js framework
